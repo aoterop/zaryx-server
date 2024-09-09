@@ -1,0 +1,44 @@
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.deps.json
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.runtimeconfig.json
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.exe
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.exe
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\App.config
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.dll.config
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.deps.json
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.runtimeconfig.json
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Communication.pdb
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx DAO.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.dll
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.pdb
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx Game.dll.config
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx DAO.pdb
+C:\Users\aoter\source\repos\Zaryx Communication\bin\Release\net6.0\Zaryx DAO.dll.config
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.csproj.AssemblyReference.cache
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.AssemblyInfoInputs.cache
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.AssemblyInfo.cs
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.csproj.CoreCompileInputs.cache
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.csproj.CopyComplete
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.dll
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\refint\Zaryx Communication.dll
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.pdb
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\Zaryx Communication.genruntimeconfig.cache
+C:\Users\aoter\source\repos\Zaryx Communication\obj\Release\net6.0\ref\Zaryx Communication.dll

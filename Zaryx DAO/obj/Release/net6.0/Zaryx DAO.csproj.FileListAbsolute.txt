@@ -1,0 +1,14 @@
+C:\Users\aoter\source\repos\Zaryx DAO\bin\Release\net6.0\App.config
+C:\Users\aoter\source\repos\Zaryx DAO\bin\Release\net6.0\Zaryx DAO.dll.config
+C:\Users\aoter\source\repos\Zaryx DAO\bin\Release\net6.0\Zaryx DAO.deps.json
+C:\Users\aoter\source\repos\Zaryx DAO\bin\Release\net6.0\Zaryx DAO.dll
+C:\Users\aoter\source\repos\Zaryx DAO\bin\Release\net6.0\Zaryx DAO.pdb
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.csproj.AssemblyReference.cache
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.AssemblyInfoInputs.cache
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.AssemblyInfo.cs
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.csproj.CoreCompileInputs.cache
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.dll
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\refint\Zaryx DAO.dll
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\Zaryx DAO.pdb
+C:\Users\aoter\source\repos\Zaryx DAO\obj\Release\net6.0\ref\Zaryx DAO.dll

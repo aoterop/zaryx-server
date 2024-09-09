@@ -1,0 +1,38 @@
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.exe
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\App.config
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.dll.config
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.deps.json
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.runtimeconfig.json
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx Game.pdb
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx DAO.dll
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx DAO.pdb
+C:\Users\aoter\source\repos\Zaryx Game\bin\Release\net6.0\Zaryx DAO.dll.config
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.csproj.AssemblyReference.cache
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.AssemblyInfoInputs.cache
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.AssemblyInfo.cs
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.csproj.CoreCompileInputs.cache
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.csproj.CopyComplete
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.dll
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\refint\Zaryx Game.dll
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.pdb
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\Zaryx Game.genruntimeconfig.cache
+C:\Users\aoter\source\repos\Zaryx Game\obj\Release\net6.0\ref\Zaryx Game.dll
